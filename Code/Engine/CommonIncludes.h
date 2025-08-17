@@ -41,6 +41,7 @@ EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #include <Foundation/Types/RefCounted.h>
 #include <Foundation/Types/SharedPtr.h>
 #include <Foundation/Types/UniquePtr.h>
+#include <Foundation/Utilities/Progress.h>
 #include <Foundation/Utilities/EnumerableClass.h>
 // STD INCLUDES
 #include <atomic>

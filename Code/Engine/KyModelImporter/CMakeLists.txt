@@ -22,6 +22,7 @@ endif()
 target_link_libraries(${PROJECT_NAME}
   PUBLIC
   Foundation
+  KyKernel
 )
 
 ns_setup_iwyu()

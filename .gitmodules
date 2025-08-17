@@ -1,0 +1,3 @@
+[submodule "Code/ThirdParty/assimp"]
+	path = Code/ThirdParty/assimp
+	url = https://github.com/ezEngine/thirdparty-assimp.git
